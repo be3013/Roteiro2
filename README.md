@@ -1,4 +1,5 @@
 # Roteiro 2 - Deeplearning
+Grupo: Bernardo Mello Correia Lima; Mateus Pires Simeão; Marcelo Reis Galvão Lima; Natália Martins Dias Santos
 
 ## Link para o Collab - Tensorflow
 https://colab.research.google.com/drive/1QoLKH6jtb8aVYJRHHrLGm2Ckc8XJqUAG?usp=sharing
