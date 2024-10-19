@@ -16,7 +16,8 @@ Ambos os códigos estão utilizando a base de dados MNIST, um conjunto de 60.000
 3. Normalização - As imagens são normalizadas dividindo os valores por 255 (para que fiquem entre 0 e 1).
 4. Criação do Modelo - Uma rede neural simples é criada com três camadas: uma camada densa com 128 neurônios, outra com 64 neurônios, e uma última camada de saída com 10 neurônios, usando a função de ativação softmax.
 5. Treinamento - O modelo é compilado e treinado usando a função de perda de entropia cruzada categórica e o otimizador Adam.
-6. Exibição de Métricas - O Pandas é usado para exibir as previsões reais e as preditas em formato de uma plotagem.
+6. Salvamento do modelo - O modelo é salvo em um arquivo para ser usado posteriormente na predição. ("modelo_mnist.h5" para o tensorflow e "modelo_mnist_pytorch.pth" para o torch)
+7. Exibição de Métricas - O Pandas é usado para exibir as previsões reais e as preditas em formato de uma plotagem.
 
 ### Script de Predição
 1. Importação.
