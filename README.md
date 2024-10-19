@@ -6,7 +6,7 @@ https://colab.research.google.com/drive/1QoLKH6jtb8aVYJRHHrLGm2Ckc8XJqUAG?usp=sh
 ## Link para o Collab - Torch
 [https://colab.research.google.com/drive/1QoLKH6jtb8aVYJRHHrLGm2Ckc8XJqUAG?usp=sharing](https://colab.research.google.com/drive/1c4JuHB-FPEvTF8lte_TGMTfySWgYQd18?usp=sharing)
 
-** Descrição:
+## Descrição:
 
 Ambos os códigos estão utilizando a base de dados MNIST, um conjunto de 60.000 imagens em tons de cinza de 28x28 dos 10 dígitos, junto com um conjunto de teste de 10.000 imagens. Os códigos serão executados no seguinte formato:
 
